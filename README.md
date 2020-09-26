@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Karan Khirsariya</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankhirsariya" alt="karankhirsariya" /> </p>
 
-<!--
-**KaranKhirsariya/KaranKhirsariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/groovy/groovy-original.svg"  alt="groovy" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"  alt="java" width="40" height="40" />
+</p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&show_icons=true" alt="karankhirsariya" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 learning ReactJs
+- 🔭 currently working on MERN-TODOapp to learn ReactJs
+- 💬 Ask me about Selenium and frontend test automations, I'll be happy to answer whenever possible.
+- 📫 Reach me at karankhirsariya179@gmail.com
