@@ -9,7 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&show_icons=true" alt="karankhirsariya" /></p>
 
-- 🌱 learning ReactJs
-- 🔭 currently working on [todo-app-web](https://github.com/KaranKhirsariya/todo-app-web) to learn ReactJs
+- 🌱 ReactJs
 - 💬 Ask me about Selenium and frontend test automations, I'll be happy to answer whenever possible.
 - 📫 Reach me at karankhirsariya179@gmail.com
