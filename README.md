@@ -11,4 +11,4 @@
 
 - 🌱 ReactJs
 - 💬 Ask me about Selenium and frontend test automations, I'll be happy to answer whenever possible.
-- 📫 Reach me at karankhirsariya179@gmail.com
+- 📫 Reach me at karan.khirsariya@gmail.com
