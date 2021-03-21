@@ -8,7 +8,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  alt="java" width="40" height="40" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&show_icons=true" alt="karankhirsariya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&theme=react&count_private=true&show_icons=true" alt="karankhirsariya" /></p>
 
 - 🌱 ReactJs
 - 💬 Ask me about Selenium and frontend test automations, I'll be happy to answer whenever possible.
