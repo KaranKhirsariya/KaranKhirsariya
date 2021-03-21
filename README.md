@@ -11,5 +11,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&theme=react&count_private=true&show_icons=true" alt="karankhirsariya" /></p>
 
 - 🌱 ReactJs
-- 💬 Ask me about Selenium and frontend test automations, I'll be happy to answer whenever possible.
+- 💬 Ask me about React, Selenium and frontend test automations, I'll be happy to answer whenever possible.
 - 📫 Reach me at karan.khirsariya@gmail.com
