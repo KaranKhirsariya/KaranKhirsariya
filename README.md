@@ -13,4 +13,4 @@
 
 - 🌱 ReactJs, [No]Sql, aws
 - 💬 Ask me about React, Selenium and frontend test automations, I'll be happy to answer whenever possible.
-- 📫 Reach me at karan.khirsariya@gmail.com
+- 📫 Reach me at contact@karankhirsariya.dev
