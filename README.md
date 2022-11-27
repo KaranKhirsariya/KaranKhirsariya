@@ -6,10 +6,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg"  alt="groovy" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  alt="java" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankhirsariya&theme=react&count_private=true&show_icons=true" alt="karankhirsariya" /></p>
 
-- 🌱 ReactJs
+- 🌱 ReactJs, [No]Sql, aws
 - 💬 Ask me about React, Selenium and frontend test automations, I'll be happy to answer whenever possible.
 - 📫 Reach me at karan.khirsariya@gmail.com
